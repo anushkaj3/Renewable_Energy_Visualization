@@ -39,7 +39,7 @@ This project presents a set of interactive and dynamic visualizations in R to an
 - Required R packages: `sf`, `ggplot2`, `gganimate`, `gifski`, `Leaflet`.
 
 ### Setup
-1. Downloads all the provided files store in a single folder.
+1. Downloads all the provided files, unzip the files and store in a single folder.
 1. Open `ui.R` and `server.R` files in RStudio.
 2. Click on **Run App** to launch the application.
 
