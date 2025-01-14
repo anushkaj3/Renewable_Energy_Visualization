@@ -4,6 +4,9 @@
 
 This project presents a set of interactive and dynamic visualizations in R to analyze global renewable energy trends, their relationship with GDP, CO2 emissions, and various weather parameters. It aims to provide insights into the role of renewable energy in mitigating climate change and support advocacy efforts for sustainable energy solutions.
 
+![Example Image](image.png)
+
+
 
 ## Features
 
